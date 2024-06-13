@@ -1,0 +1,1 @@
+Executed and validated reachability analysis on sequential Verilog design modules using Picosat with Python scripts and graph traversal techniques. Designed Verilog test-benches for random simulations and performed symbolic reachability through custom scripts.![image](https://github.com/anushr03/Reachability-analysis/assets/42018336/2c025707-ca5d-4485-8166-1e2470063c6e)
